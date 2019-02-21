@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mos",
+				"modosdisp"
+			],
+			[
+				"email",
+				"emailSubject"
+			],
+			[
+				"texto",
+				"textoassunto"
+			],
+			[
+				"tex",
+				"textoemail"
+			],
+			[
+				"end",
+				"ENDC"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"org",
+				"origMask"
+			],
+			[
+				"mask",
+				"regExpressMask"
+			],
+			[
+				"orig",
+				"origPath"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"cur",
+				"curFiles"
+			],
+			[
+				"gen",
+				"GEN_TYPE"
+			],
+			[
+				"mnp",
+				"mnpSingle"
+			],
+			[
+				"log",
+				"logDebug"
+			],
+			[
+				"cr",
+				"chrome"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"resu",
+				"result1"
+			],
+			[
+				"co",
+				"cookieJar"
+			],
+			[
+				"date",
+				"dateParts"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"fomr",
+				"formArr"
+			],
+			[
+				"In",
+				"inscrição"
+			],
+			[
+				"con",
+				"consultaCRF"
+			],
+			[
+				"coo",
+				"cookieJar"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"win",
+				"Windows"
+			],
+			[
+				"js",
+				"jsdom"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"age",
+				"agent"
+			],
+			[
+				"html",
+				"htmlbody"
+			],
+			[
+				"ht",
+				"htmlbody"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"certid",
+				"certidoesRouter"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"serv",
+				"createServer"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"g",
+				"grid-column\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"ali",
+				"vertical-align\tproperty"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"Snippet: lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"view.encoding()",
+			"vien.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Y/DEPARTAMENTO PARALEGAL/Processos Não Clientes/IBQ/Renovacao Alvara Filial 09/Docs/certidao_venal.php",
+		"/C/TMP/Rar$DIa0.542/manifest.json",
+		"/C/TMP/Rar$DIa0.405/manifest.json",
+		"/C/TMP/Rar$DIa0.409/manifest.json",
+		"/C/TMP/Rar$DIa0.832/manifest.json",
+		"/C/TMP/Rar$DIa0.191/background.js",
+		"/C/TMP/Rar$DIa0.471/background.js",
+		"/C/TMP/Rar$DIa0.154/background.js",
+		"/C/TMP/Rar$DIa0.867/messages.json",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/xpi/components/s3.js",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/overlay.js",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/note.js",
+		"/C/Users/Jean/Desktop/thundExten/webextensions-examples/menu-demo/manifest.json",
+		"/C/TMP/Rar$DIa0.858/manifest.json",
+		"/C/TMP/Rar$DIa0.076/manifest.json",
+		"/C/TMP/Rar$DIa0.314/manifest.json",
+		"/C/TMP/Rar$DIa0.116/background.js",
+		"/C/TMP/Rar$DIa0.659/management.js",
+		"/C/Users/Jean/Desktop/msgNotePlus/gulpfile.js",
+		"/C/TMP/Rar$DIa0.366/background.js",
+		"/C/TMP/Rar$DIa0.775/manifest.json",
+		"/C/TMP/Rar$DIa0.056/manifest.json",
+		"/C/TMP/Rar$DIa0.973/manifest.json",
+		"/C/TMP/Rar$DIa0.590/manifest.json",
+		"/C/TMP/Rar$DIa0.552/manifest.json",
+		"/C/TMP/is-MV2P8.tmp/editor-test.txt",
+		"/C/Users/Jean/Desktop/thundExten/webextensions-examples/menu-demo/background.js",
+		"/C/Users/Jean/Desktop/msgNotePlus/package-lock.json",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/xpi/install.rdf",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/xpi/chrome.manifest",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/teste.py",
+		"/Y/DEPARTAMENTO PESSOAL/Temp/1 GPS/GPS_29006575000101_02003_05122018_144349.PDF",
+		"/C/Users/Jean/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/.prolabore.bat",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/.13.bat",
+		"/C/TMP/Rar$DIa0.104/messages.json",
+		"/C/TMP/Rar$DIa0.797/manifest.json",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/main.py",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/.fopag.bat",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/.adiant_2.bat",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/fopag.bat",
+		"/C/Users/Jean/OneDrive/Desenv/FOPAG_Files/adiant.bat",
+		"/C/Users/Jean/Desktop/47178679_382681632471892_7071809295205007360_n.mp4",
+		"/C/Users/Jean/Desktop/installer",
+		"/C/Users/Jean/Desktop/Nova pasta/installer",
+		"/C/Users/Jean/Desktop/composer.phar",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/overlay.xul",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/note_status_overlay.xul",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/note_status_overlay.js",
+		"/C/TMP/Rar$DIa0.260/install.rdf",
+		"/C/TMP/Rar$DIa0.660/s3.js",
+		"/C/Users/Jean/Desktop/msgNotePlus/src/chrome/content/localProxy.js",
+		"/C/Program Files (x86)/Mozilla Thunderbird/about",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/index.ejs",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/my_modules/crf_test_mod.js",
+		"/C/TMP/Rar$DIa0.255/overlay.js",
+		"/C/TMP/Rar$DIa0.752/overlay.js",
+		"/C/TMP/Rar$DIa0.425/s3.js",
+		"/C/TMP/Rar$DIa0.610/note_status_overlay.js",
+		"/C/TMP/Rar$DIa0.396/overlay.js",
+		"/C/TMP/Rar$DIa0.734/search_results.js",
+		"/C/TMP/Rar$DIa0.418/print.js",
+		"/C/TMP/Rar$DIa0.417/options.js",
+		"/C/TMP/Rar$DIa0.641/note_status_overlay.js",
+		"/C/TMP/Rar$DIa0.691/s3.js",
+		"/C/TMP/Rar$DIa0.012/baseServerProxy.js",
+		"/C/TMP/Rar$DIa0.726/localProxy.js",
+		"/C/TMP/Rar$DIa0.128/overlay.js",
+		"/C/TMP/Rar$DIa0.107/options.js",
+		"/C/TMP/Rar$DIa0.622/note_status_overlay.js",
+		"/C/TMP/Rar$DIa0.659/note.js",
+		"/C/TMP/Rar$DRa0.191/content/notes.html",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/body.html",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/package.json",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/certidaoFGTS.ejs",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/crf_test.js",
+		"/C/TMP/Rar$DIa0.024/note.js",
+		"/C/TMP/Rar$DIa0.381/localProxy.js",
+		"/C/TMP/Rar$DIa0.793/jquery.textareaexpander.js",
+		"/C/TMP/Rar$DIa0.001/baseServerProxy.js",
+		"/C/TMP/Rar$DIa0.230/optionsPlus.js",
+		"/C/TMP/Rar$DIa0.447/serverProxy.js",
+		"/C/TMP/Rar$DIa0.146/options.js",
+		"/C/TMP/Rar$DIa0.734/note.js",
+		"/C/TMP/Rar$DIa0.308/overlay.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/app.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/header.ejs",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/footer.ejs",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/public/javascripts/main.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/crf_teste.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/public/javascripts/crf_teste.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/index.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/public/stylesheets/style.css",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/certidaoFGTS.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/har-validator/lib/promise.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/har-validator/lib/async.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/request/index.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/head.ejs",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/users.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/routes/certidoes.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/views/certidoes.ejs",
+		"/C/Users/Jean/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/public/stylesheets/header.css",
+		"/C/Users/Jean/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Jean/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Jean/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/package-lock.json",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/debug/src/debug.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/ejs/ejs.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/express/lib/view.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/node_modules/raw-body/node_modules/http-errors/index.js",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/index.html",
+		"/C/Users/Jean/OneDrive/Desenv/node_learn/main.js",
+		"/C/Users/Jean/Desktop/teste site/index.html",
+		"/C/Users/Jean/Desktop/teste site/css/main.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
