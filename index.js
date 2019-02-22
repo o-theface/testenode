@@ -9,6 +9,14 @@ app.use('/placa/:q' , async (req, res) => {
         console.log(req.params);
         if (req.params.q != undefined) {placa = req.params.q;}
         console.log(placa);
+        var re = /[A-Za-z]{3}\d{4}/;
+        if (!re.test(placa)){
+            return res.json({
+                "message":"Erro ao processar consulta",
+                "codigoRetorno": "-1",
+                "mensagemRetorno" : "placa inválida"});
+        }
+
 
         const dados = await sinesp.consultaPlaca(placa);
         if (dados.codigoRetorno = '0') {
@@ -26,15 +34,26 @@ app.use('/placa/:q' , async (req, res) => {
             })
         } else {
             res.json({
-                "message":"Erro ao processar consulta", 
+                "message":"Erro ao processar consulta",
                 "codigoRetorno": dados.codigoRetorno,
                 "mensagemRetorno" : dados.mensagemRetorno});
         }
 
     } catch (dados) {
         console.log(dados);
-        res.json({"message":"Erro ao processar consulta", dados});
+        res.json({
+            "message":"Erro ao processar consulta",
+            "codigoRetorno": dados.codigoRetorno,
+            "mensagemRetorno" : dados.mensagemRetorno});
     }
+});
+
+app.get('/', (req, res) => {
+    res.send(
+        '\nGet information about car`s in Brasil.<br>'+
+        '\nAPI usage: /placa/XXX0000<br>' +
+        '\nX = letters in plate.<br>' +
+        '\n0 = numbers in plate.')
 });
 
 app.listen(8080, function() {
